@@ -19,7 +19,7 @@ Whether you’re a guitarist, music producer, or machine learning enthusiast, th
 ## Demo: 
 - [Listen to generated chords being played](https://drive.google.com/file/d/1Rx7A4NfZUcxuh6L-_Dt9X3Nrx_gJvYwW/view?usp=sharing)
 - [See it being generated through MIDI in Garage Band](https://drive.google.com/file/d/1n0jxeBTrrH2ndUn4KyohJAHzYf4LBNij/view?usp=sharing)
-- [Hear me play guitar using the same generated chords]
+- [Hear me play guitar using the same generated chords](https://drive.google.com/file/d/1kxV4t4QHr2cB6oF_Oh7IoulvLHNt1E9t/view?usp=sharing)
 
 ## Dataset
 
