@@ -1,8 +1,6 @@
 # Transformer-based Guitar Chord Generator 🎸 
 
-Generate genre-aware guitar chord progressions using a transformer model — trained from scratch on over 600,000 songs!
-
-Built for fun, learning, and giving myself an excuse to practice guitar a bit more.
+Generate genre-aware guitar chord progressions using a transformer model
 
 <img width="1551" alt="Screenshot 2025-05-05 at 00 16 40" src="https://github.com/user-attachments/assets/4f580a66-8e65-481d-9086-e28a23a1a44a" />
 
@@ -34,7 +32,7 @@ Kantarelis et al., 2024 – “A Dataset of 666,000 Songs and their Chord Progre
 ## How It Works
 
 ### Model Architecture
-- Transformer model inspired by Attention Is All You Need
+- Transformer model by Attention Is All You Need
 - Trained from scratch (for learning) using PyTorch
 - 4 layers of encoder/decoders, added genre embedding for input, d_model=256, ffn_size=256. 
 - Supports genre conditioning, masking, and decoding
@@ -59,7 +57,6 @@ Kantarelis et al., 2024 – “A Dataset of 666,000 Songs and their Chord Progre
  - Genre conditioning for stylistic accuracy
  - Adjustable parameters: sequence length, temperature, starting chords
  - Play audio output via  MIDI (IAC Driver on macOS)
- - Bonus: Watch me play the generated chords on my guitar!
 
 ## Requirements
 - Python 3.8+
